@@ -1,0 +1,18 @@
+# MICHIELI
+
+# Node Module #
+node_modules
+
+# Logs #
+*.log
+npm-debug.log
+
+# Cache loader #
+.cache-loader
+
+# IDE #
+.idea/
+.vscode/
+
+# DIST #
+dist
